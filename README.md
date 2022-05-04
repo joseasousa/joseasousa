@@ -10,10 +10,10 @@
   ## Technologies
   
 <div><br>
-  <img align="center" alt="Jose-Js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jose-Ts" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jose-React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jose-Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Jose-Js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Ts" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jose-GO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Jose-HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="Jose-css" width="26px"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Jose-Android" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 </div>
 
-## Overview
+## 
 
 <div >
   <a href="https://github.com/joseasousa">
