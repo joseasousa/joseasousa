@@ -29,6 +29,6 @@
 ## 
 
 <div>
-   <a href="https://github.com/joseasousa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhenrique007&hide=TeX&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joseasousa">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseasousa&layout=compact&langs_count=10&count_private=true"/>
 </div>
